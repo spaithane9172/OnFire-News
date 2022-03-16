@@ -1,0 +1,136 @@
+{
+    "status": "ok",
+    "totalResults": 10,
+    "articles": [
+      {
+        "source": {
+          "id": "techcrunch",
+          "name": "TechCrunch"
+        },
+        "author": "Ron Miller",
+        "title": "Amazon, Microsoft and Google have suspended cloud sales in Russia",
+        "description": "As the war in Ukraine continues, companies as varied as Exxon, Visa, McDonalds and Coca-Cola have suspended sales in Russia. Tech companies like Adobe, Apple, and PayPal have joined in over the last couple of weeks. We queried the world’s top cloud infrastruc…",
+        "url": "https://techcrunch.com/2022/03/10/amazon-microsoft-and-google-have-suspended-cloud-sales-in-russia/",
+        "urlToImage": "https://techcrunch.com/wp-content/uploads/2022/03/GettyImages-515973756.jpg?w=658",
+        "publishedAt": "2022-03-10T18:51:48Z",
+        "content": "As the war in Ukraine continues, companies as varied as Exxon, Visa, McDonalds and Coca-Cola have suspended sales in Russia. Tech companies like Adobe, Apple, and PayPal have joined in over the last … [+2817 chars]"
+      },
+      {
+        "source": {
+          "id": "techcrunch",
+          "name": "TechCrunch"
+        },
+        "author": "Aisha Malik",
+        "title": "DoorDash is testing a feature that lets you return packages to post offices, FedEx or UPS",
+        "description": "DoorDash confirmed it’s testing a new feature called “Return a Package” that allows customers to use the service to return packages to the nearest post office, UPS, or FedEx location. The feature is part of a small beta test and is not yet widely available, D…",
+        "url": "https://techcrunch.com/2022/03/10/doordash-is-testing-a-feature-that-lets-you-return-packages-to-post-offices-fedex-or-ups/",
+        "urlToImage": "https://techcrunch.com/wp-content/uploads/2022/03/Dasher_Bag.jpg?w=764",
+        "publishedAt": "2022-03-10T18:13:26Z",
+        "content": "DoorDash confirmed it’s testing a new feature called “Return a Package” that allows customers to use the service to return packages to the nearest post office, UPS, or FedEx location. The feature is … [+2553 chars]"
+      },
+      {
+        "source": {
+          "id": "techcrunch",
+          "name": "TechCrunch"
+        },
+        "author": "Lucas Matney",
+        "title": "Quest 2 fitness tracking finally lands Apple Health integration",
+        "description": "Facebook’s Meta’s Oculus Quest 2 headset has managed to carve out a surprisingly sizable niche as a high-tech piece of exercise equipment as people use software like Beat Saber and Supernatural to get a cardio workout in. There have been some limits to the ex…",
+        "url": "https://techcrunch.com/2022/03/10/quest-2-fitness-tracking-finally-lands-apple-health-integration/",
+        "urlToImage": "https://techcrunch.com/wp-content/uploads/2022/03/download.png?w=595",
+        "publishedAt": "2022-03-10T18:00:27Z",
+        "content": "Facebook’s\r\n Meta’s Oculus\r\n Quest 2 headset has managed to carve out a surprisingly sizable niche as a high-tech piece of exercise equipment as people use software like Beat Saber and Supernatural t… [+1286 chars]"
+      },
+      {
+        "source": {
+          "id": "techcrunch",
+          "name": "TechCrunch"
+        },
+        "author": "Lucas Matney",
+        "title": "Chris Dixon, Marc Andreessen back $30M fund exclusively investing in NFT art",
+        "description": "The world of NFTs is never dull — as long as the money never stops. While investors continue to pour billions into the sector, albeit at a slowing pace, more crypto buyers are spinning up funds to back NFT platforms, projects and the non-fungible tokens thems…",
+        "url": "https://techcrunch.com/2022/03/10/chris-dixon-marc-andreessen-back-a-30m-fund-investing-exclusively-in-nft-art/",
+        "urlToImage": "https://techcrunch.com/wp-content/uploads/2019/10/Chris-Dixon-DSC02390.jpg?w=600",
+        "publishedAt": "2022-03-10T17:16:12Z",
+        "content": "The world of NFTs is never dull — as long as the money never stops. While investors continue to pour billions into the sector, albeit at a slowing pace, more crypto buyers are spinning up funds to ba… [+2938 chars]"
+      },
+      {
+        "source": {
+          "id": "techcrunch",
+          "name": "TechCrunch"
+        },
+        "author": "Jordan Crook",
+        "title": "We're breaking down usage-based pricing and growth strategies at TechCrunch Early Stage",
+        "description": "Software as a Service (SaaS) — both a revelation and a revolution — completely disrupted the decades-old software selling paradigm. It turned buying software from an infrequent, high-cost and, for many companies, a time-consuming process into a hosted, monthl…",
+        "url": "https://techcrunch.com/2022/03/10/openview-ventures-kyle-poyar-breaks-down-usage-based-pricing-and-growth-strategies-at-techcrunch-early-stage/",
+        "urlToImage": "https://techcrunch.com/wp-content/uploads/2022/03/early-stage-poyar-1.jpg?w=764",
+        "publishedAt": "2022-03-10T17:15:23Z",
+        "content": "Software as a Service (SaaS) both a revelation and a revolution completely disrupted the decades-old software selling paradigm. It turned buying software from an infrequent, high-cost and, for many c… [+2436 chars]"
+      },
+      {
+        "source": {
+          "id": "techcrunch",
+          "name": "TechCrunch"
+        },
+        "author": "Mary Ann Azevedo",
+        "title": "Stilt secures $114M in debt & equity to help fintechs and neobanks launch credit offerings with its API",
+        "description": "Stilt, which started its life as a provider of financial services for immigrants, has raised $14 million in Series A funding led by Link Ventures as it expands its focus to include a B2B offering. In addition to the equity raise, the San Francisco-based finte…",
+        "url": "https://techcrunch.com/2022/03/10/stilt-secures-114m-in-debt-equity-to-help-fintechs-and-neobanks-launch-credit-offerings-with-its-api/",
+        "urlToImage": "https://techcrunch.com/wp-content/uploads/2022/03/Rohit-and-Priyank-2-e1646928418165.jpg?w=533",
+        "publishedAt": "2022-03-10T17:00:15Z",
+        "content": "Stilt, which started its life as a provider of financial services for immigrants, has raised $14 million in Series A funding led by Link Ventures as it expands its focus to include a B2B offering.\r\nI… [+4180 chars]"
+      },
+      {
+        "source": {
+          "id": "techcrunch",
+          "name": "TechCrunch"
+        },
+        "author": "Alex Wilhelm, Anna Heim",
+        "title": "Are we entering an NFT downturn?",
+        "description": "Enough activity charts from enough exchanges are trending negatively that we are content to say that, for now, NFT volume is in decline.",
+        "url": "https://techcrunch.com/2022/03/10/are-we-entering-an-nft-downturn/",
+        "urlToImage": "https://techcrunch.com/wp-content/uploads/2020/05/NSussman_Techcrunch_Exchange_v3_GRY.jpg?w=533",
+        "publishedAt": "2022-03-10T16:40:59Z",
+        "content": "The market for non-fungible tokens, or NFTs, may be slowing after NFT activity grew sharply in 2021 and into the new year.\r\nThe health of the NFT market is itself a fascinating data project. The hist… [+2402 chars]"
+      },
+      {
+        "source": {
+          "id": "techcrunch",
+          "name": "TechCrunch"
+        },
+        "author": "Natasha Lomas",
+        "title": "Google dials up focus on portability ahead of rule changes",
+        "description": "Google has signalled it’s dialling up efforts around portability, announcing a plan yesterday to spend $3 million and “hundreds of hours” of its engineers time over the next five years to build on existing (sometimes very long-standing) initiatives in this ar…",
+        "url": "https://techcrunch.com/2022/03/10/google-portability-lobbying/",
+        "urlToImage": "https://techcrunch.com/wp-content/uploads/2019/01/GettyImages-541932072.jpg?w=602",
+        "publishedAt": "2022-03-10T16:34:28Z",
+        "content": "Google has signalled it’s dialling up efforts around portability, announcing a plan yesterday to spend $3 million and “hundreds of hours” of its engineers time over the next five years to build on ex… [+6206 chars]"
+      },
+      {
+        "source": {
+          "id": "techcrunch",
+          "name": "TechCrunch"
+        },
+        "author": "Brian Heater",
+        "title": "Zeta Surgical comes out of stealth with a $5.2M raise for image-guided surgery",
+        "description": "Boston-based Zeta Surgical comes out of stealth this week, with the announcement of a $5.2 million seed round. The funding, led by Innospark Ventures, follows a $250,000 pre-seed featuring Y Combinator and Plug and Play Ventures.. The company was founded by H…",
+        "url": "https://techcrunch.com/2022/03/10/zeta-surgical-comes-out-of-stealth-with-a-5-75m-raise-for-image-guided-surgery/",
+        "urlToImage": "https://techcrunch.com/wp-content/uploads/2022/01/08-Zeta-FRONT-SIDE-Black-BKG.jpg?w=640",
+        "publishedAt": "2022-03-10T16:31:28Z",
+        "content": "Boston-based Zeta Surgical comes out of stealth this week, with the announcement of a $5.2 million seed round. The funding, led by Innospark Ventures, follows a $250,000 pre-seed featuring Y Combinat… [+2703 chars]"
+      },
+      {
+        "source": {
+          "id": "techcrunch",
+          "name": "TechCrunch"
+        },
+        "author": "Sarah Perez",
+        "title": "Netflix says an ad-supported tier still isn't in its plans, despite the Disney+ announcement",
+        "description": "Disney last week announced plans to introduce an ad-supported subscription tier to its Disney+ streaming service, but Netflix says a similar option for its own customers isn’t on the table for the time being. Speaking at the Morgan Stanely Technology, Media, …",
+        "url": "https://techcrunch.com/2022/03/10/netflix-says-an-ad-supported-tier-still-isnt-in-its-plans-despite-the-disney-announcement/",
+        "urlToImage": "https://techcrunch.com/wp-content/uploads/2019/09/netflix-app-icon-ios.jpg?w=712",
+        "publishedAt": "2022-03-10T16:26:18Z",
+        "content": "Disney last week announced plans to introduce an ad-supported subscription tier to its Disney+ streaming service, but Netflix says a similar option for its own customers isn’t on the table for the ti… [+4781 chars]"
+      }
+    ]
+  }
